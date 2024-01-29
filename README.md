@@ -17,3 +17,5 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 Part 2: Gather and Plot More Data (Optional with no extra points earning)
 Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. This part is completely optional; you can complete this part as a way to challenge yourself and boost your new skills.
 
+## References
+Dataset created by the United States Geological Survey (https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
